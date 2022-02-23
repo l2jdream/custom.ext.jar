@@ -32,7 +32,7 @@
         "src"
     ],
     "java.project.outputPath": "Build",
-    "java.home": "C:\\Program Files (x86)\\Java\\jdk-15.0.2\\",
+    "java.jdt.ls.java.home":"C:\\Program Files (x86)\\Java\\jdk-15.0.2\\",
     "java.autobuild.enabled": true,
     "java.project.exportJar.targetPath": "../libs/LA2.ext.jar",
     "java.project.resourceFilters": [
