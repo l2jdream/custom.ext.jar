@@ -1,40 +1,13 @@
 {
     "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "c:\\Users\\welton\\Desktop\\Games\\l2vigor\\Dev\\Arquivos\\L2j\\libs\\cg-all.jar",
-        "c:\\Users\\welton\\Desktop\\Games\\l2vigor\\Dev\\Arquivos\\L2j\\libs\\commons-dbcp-1.4.jar",
-        "c:\\Users\\welton\\Desktop\\Games\\l2vigor\\Dev\\Arquivos\\L2j\\libs\\commons-io-2.0.1.jar",
-        "c:\\Users\\welton\\Desktop\\Games\\l2vigor\\Dev\\Arquivos\\L2j\\libs\\commons-lang3-3.9.jar",
-        "c:\\Users\\welton\\Desktop\\Games\\l2vigor\\Dev\\Arquivos\\L2j\\libs\\commons-math-2.2.jar",
-        "c:\\Users\\welton\\Desktop\\Games\\l2vigor\\Dev\\Arquivos\\L2j\\libs\\commons-pool-1.5.6.jar",
-        "c:\\Users\\welton\\Desktop\\Games\\l2vigor\\Dev\\Arquivos\\L2j\\libs\\dbmsstruct-1.0.jar",
-        "c:\\Users\\welton\\Desktop\\Games\\l2vigor\\Dev\\Arquivos\\L2j\\libs\\dom4j-2.1.1.jar",
-        "c:\\Users\\welton\\Desktop\\Games\\l2vigor\\Dev\\Arquivos\\L2j\\libs\\ecj-3.7.jar",
-        "c:\\Users\\welton\\Desktop\\Games\\l2vigor\\Dev\\Arquivos\\L2j\\libs\\ehcache-core-2.4.3.jar",
-        "c:\\Users\\welton\\Desktop\\Games\\l2vigor\\Dev\\Arquivos\\L2j\\libs\\gson-2.8.6.jar",
-        "c:\\Users\\welton\\Desktop\\Games\\l2vigor\\Dev\\Arquivos\\L2j\\libs\\jacksum-1.7.0.jar",
-        "c:\\Users\\welton\\Desktop\\Games\\l2vigor\\Dev\\Arquivos\\L2j\\libs\\jts_bots.ext.jar",
-        "c:\\Users\\welton\\Desktop\\Games\\l2vigor\\Dev\\Arquivos\\L2j\\libs\\l2commons.jar",
-        "c:\\Users\\welton\\Desktop\\Games\\l2vigor\\Dev\\Arquivos\\L2j\\libs\\l2gameserver.jar",
-        "c:\\Users\\welton\\Desktop\\Games\\l2vigor\\Dev\\Arquivos\\L2j\\libs\\l2loginserver.jar",
-        "c:\\Users\\welton\\Desktop\\Games\\l2vigor\\Dev\\Arquivos\\L2j\\libs\\l2scripts.jar",
-        "c:\\Users\\welton\\Desktop\\Games\\l2vigor\\Dev\\Arquivos\\L2j\\libs\\log4j-1.2.16.jar",
-        "c:\\Users\\welton\\Desktop\\Games\\l2vigor\\Dev\\Arquivos\\L2j\\libs\\mesp-1.02.jar",
-        "c:\\Users\\welton\\Desktop\\Games\\l2vigor\\Dev\\Arquivos\\L2j\\libs\\mysql-connector-java-5.1.49.jar",
-        "c:\\Users\\welton\\Desktop\\Games\\l2vigor\\Dev\\Arquivos\\L2j\\libs\\netty-3.2.3.jar",
-        "c:\\Users\\welton\\Desktop\\Games\\l2vigor\\Dev\\Arquivos\\L2j\\libs\\org.napile.primitive.jar",
-        "c:\\Users\\welton\\Desktop\\Games\\l2vigor\\Dev\\Arquivos\\L2j\\libs\\PartyFarm.ext.jar",
-        "c:\\Users\\welton\\Desktop\\Games\\l2vigor\\Dev\\Arquivos\\L2j\\libs\\slf4j-api-1.6.1.jar",
-        "c:\\Users\\welton\\Desktop\\Games\\l2vigor\\Dev\\Arquivos\\L2j\\libs\\slf4j-log4j12-1.6.1.jar",
-        "c:\\Users\\welton\\Desktop\\Games\\l2vigor\\Dev\\Arquivos\\L2j\\libs\\trove-3.1a1.jar"
+        "../libs/**/*.jar",
     ],
     "java.project.sourcePaths": [
         "src"
     ],
     "java.project.outputPath": "Build",
-    "java.jdt.ls.java.home":"C:\\Program Files (x86)\\Java\\jdk-15.0.2\\",
     "java.autobuild.enabled": true,
-    "java.project.exportJar.targetPath": "../libs/LA2.ext.jar",
+    "java.project.exportJar.targetPath": "Build/lib/LA2.ext.jar",
     "java.project.resourceFilters": [
         ".vscode"
     ],
